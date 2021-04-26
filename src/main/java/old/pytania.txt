@@ -1,0 +1,15 @@
+Co jest stolicą Polski:
+Wrocław
+Poznań
+Warszawa
+Warszawa
+Z iloma państwami graniczy Polska:
+7
+12
+4
+7
+Liczba województw w Polsce wynosi:
+16
+12
+21
+16
