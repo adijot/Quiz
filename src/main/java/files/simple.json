@@ -1,0 +1,11 @@
+{
+  "1": {
+    "question": "Question:",
+    "answers": [
+      "Answers first",
+      "Answers second",
+      "Answer third"
+    ],
+    "correctAnswer": "Answer third"
+  }
+}
